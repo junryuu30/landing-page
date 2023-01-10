@@ -1,0 +1,41 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+.up-nav{
+     background-color: gray;
+}
+
+.card-feature{
+     width: 280px;
+}
+
+.card-img{
+     width: 270px;
+}
+
+.card-heath{
+     margin-top: 50px;
+}
+
+/* banner-lower */
+
+
+.footer-up{
+     background-color: rgb(90, 88, 88);
+     height: 80px;
+}
+
+.btn-footer{
+     width: 120px;
+     background-color: rgb(90, 88, 88);
+     border: solid #fff;
+     padding: 10px;
+     font-size: small;
+     color: #fff;
+}
+
+.Footer{
+     background-color: gray;
+     color: #fff;
+}
